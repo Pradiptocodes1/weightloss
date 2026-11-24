@@ -1,0 +1,2 @@
+// Paste your Firebase values here (see setup steps). Leave as is to save only on this phone.
+const FIREBASE_CONFIG = { apiKey: "AIzaSyBc0cTBiDMxPGAwHJmBj-X9QoMLvN7gbgc", authDomain: "weightloss-fa8b8.firebaseapp.com", projectId: "weightloss-fa8b8", appId: "1:524332921177:web:4d7b420ab58e39d85b5c48" };
